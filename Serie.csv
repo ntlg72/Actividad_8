@@ -1,11 +1,11 @@
-idSerie,	titulo,		anio_de_lanzamiento,	resumen
-1,	The Mandalorian,			2019,	Un cazarrecompensas navega por la galaxia.
-2,	WandaVision,				2021,	Wanda y Vision viven una vida suburbana con misterios.
-3,	Loki,					2021,	El dios del engaño atraviesa líneas temporales.
-4,	The Falcon and the Winter Soldier,	2021,	Dos héroes luchan contra nuevas amenazas.
-5,	Hawkeye,				2021,	El arquero de los Vengadores entrena a su sucesora.
-6,	The Simpsons,				1989,	La vida de una familia disfuncional en Springfield.
-7,	Gravity Falls,				2012,	Dos hermanos descubren misterios en un pueblo extraño.
-8,	Star Wars: The Clone Wars,		2008,	Las guerras clonicas en la galaxia de Star Wars.
-9,	Phineas and Ferb,			2007,	Dos hermanos crean inventos increíbles durante el verano.
-10,	DuckTales,				2017,	Las aventuras del Tío Rico y sus sobrinos.
+idSerie,titulo,anio_de_lanzamiento,resumen
+1,The Mandalorian,2019,Un cazarrecompensas navega por la galaxia.
+2,WandaVision,2021,Wanda y Vision viven una vida suburbana con misterios.
+3,Loki,2021,El dios del engaño atraviesa líneas temporales.
+4,The Falcon and the Winter Soldier,2021,Dos héroes luchan contra nuevas amenazas.
+5,Hawkeye,2021,El arquero de los Vengadores entrena a su sucesora.
+6,The Simpsons,1989,La vida de una familia disfuncional en Springfield.
+7,Gravity Falls,2012,Dos hermanos descubren misterios en un pueblo extraño.
+8,Star Wars: The Clone Wars,2008,Las guerras clonicas en la galaxia de Star Wars.
+9,Phineas and Ferb,2007,Dos hermanos crean inventos increíbles durante el verano.
+10,DuckTales,2017,Las aventuras del Tío Rico y sus sobrinos.
