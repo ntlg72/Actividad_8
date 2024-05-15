@@ -1,11 +1,11 @@
-idEpisodio,titulo,	numero_del_episodio,	duracion
-1,	Piloto,		1,			38 min
-2,	El Niño,	2,			32 min
-3,	Visionario,	3,			28 min
-4,	Nexus,		4,			30 min
-5,	Rescate,	5,			25 min
-6,	Halloween,	6,			22 min
-7,	Invierno,	7,			24 min
-8,	El regreso,	8,			29 min
-9,	Verano,		9,			31 min
-10,	Final,		10,			35 min
+idEpisodio,titulo,numero_del_episodio,duracion
+1,Piloto,1,38 min
+2,El Niño,2,32 min
+3,Visionario,3,28 min
+4,Nexus,4,30 min
+5,Rescate,5,25 min
+6,Halloween,6,22 min
+7,Invierno,7,24 min
+8,El regreso,8,29 min
+9,Verano,9,31 min
+10,Final,10,35 min
