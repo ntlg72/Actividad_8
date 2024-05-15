@@ -1,11 +1,10 @@
 idGenero,	nombre
-1,	Animación
+1,	Anime
 2,	Aventura
 3,	Comedia
 4,	Drama
 5,	Fantasía
-6,	Musical
+6,	Documental
 7,	Ciencia ficción
-8,	Familia
-9,	Acción
-10,	Misterio
+8,	Militar
+9,	Romántica
