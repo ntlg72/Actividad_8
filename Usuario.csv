@@ -1,11 +1,11 @@
-idUsuario,	nombre	,edad	,teléfono	,sexo	,teléfono_movil,	email
-1	,Juan Pérez	,28	, 3011234567	,M	, 3219876543	,juan.perez@gmail.com
-2	,María López	,34	, 3012345678	,F	, 3218765432	,maria.lopez@gmail.com
-3	,Carlos Ruiz	,45	, 3013456789	,M	, 3217654321	,carlos.ruiz@gmail.com
-4	,Ana García	,29	, 3014567890	,F	, 3216543210	,ana.garcia@gmail.com
-5	,Luis Gómez	,37	, 3015678901	,M	, 3215432109	,luis.gomez@gmail.com
-6	,Marta Díaz	,32	, 3016789012	,F	, 3214321098	,marta.diaz@gmail.com
-7	,Pedro Sánchez	,40	, 3017890123	,M	, 3213210987	,pedro.sanchez@gmail.com
-8	,Laura Rojas	,26	, 3018901234	,F	, 3212109876	,laura.rojas@gmail.com
-9	,José Martín	,50	, 3019012345	,M	, 3211098765	,jose.martin@gmail.com
-10	,Elena Torres	,22	, 3010123456	,F	, 3210987654	,elena.torres@gmail.com
+idUsuario,nombre,edad,teléfono,sexo,teléfono_movil,email
+1,Juan Pérez,28,601234567,M,3219876543,juan.perez@hotmail.com
+2,María López,34,602345678,F,3158765432,maria.lopez@gmail.com
+3,Carlos Ruiz,45,603456789,M,3167654321,carlos.ruiz@hotmail.com
+4,Ana García,29,604567890,F,3006543210,ana.garcia@hotmail.com
+5,Luis Gómez,37,605678901,M,3145432109,luis.gomez@hotmail.com
+6,Marta Díaz,32,606789012,F,3154321098,marta.diaz@hotmail.com
+7,Pedro Sánchez,40,607890123,M,3163210987,pedro.sanchez@hotmail.com
+8,Laura Rojas,26,608901234,F,3142109876,laura.rojas@hotmail.com
+9,José Martín,50,609012345,M,3151098765,jose.martin@gmail.com
+10,Elena Torres,22,601012345,F,3140987654,elena.torres@hotmail.com
