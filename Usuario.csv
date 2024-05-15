@@ -1,0 +1,11 @@
+idUsuario,	nombre	,edad	,teléfono	,sexo	,teléfono_movil,	email
+1	,Juan Pérez	,28	, 3011234567	,M	, 3219876543	,juan.perez@gmail.com
+2	,María López	,34	, 3012345678	,F	, 3218765432	,maria.lopez@gmail.com
+3	,Carlos Ruiz	,45	, 3013456789	,M	, 3217654321	,carlos.ruiz@gmail.com
+4	,Ana García	,29	, 3014567890	,F	, 3216543210	,ana.garcia@gmail.com
+5	,Luis Gómez	,37	, 3015678901	,M	, 3215432109	,luis.gomez@gmail.com
+6	,Marta Díaz	,32	, 3016789012	,F	, 3214321098	,marta.diaz@gmail.com
+7	,Pedro Sánchez	,40	, 3017890123	,M	, 3213210987	,pedro.sanchez@gmail.com
+8	,Laura Rojas	,26	, 3018901234	,F	, 3212109876	,laura.rojas@gmail.com
+9	,José Martín	,50	, 3019012345	,M	, 3211098765	,jose.martin@gmail.com
+10	,Elena Torres	,22	, 3010123456	,F	, 3210987654	,elena.torres@gmail.com
