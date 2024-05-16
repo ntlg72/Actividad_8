@@ -1,11 +1,11 @@
-idUsuario,	idPelicula,	tipo_reaccion,	fecha
-1,	1	,Me gusta	,2024-05-01 10:30:00
-2,	2	,No me gusta,	2024-05-02 11:00:00
-3,	3	,Me encanta	,2024-05-03 09:45:00
-4,	4	,Me gusta	,2024-05-04 08:20:00
-5,	5	,Me gusta	,2024-05-05 14:15:00
-6,	6	,Me encanta,	2024-05-06 12:00:00
-7,	7	,Me gusta	,2024-05-07 15:45:00
-8,	8	,No me gusta,	2024-05-08 16:30:00
-9,	9	,Me gusta	,2024-05-09 18:00:00
-10,	10	,Me encanta,	2024-05-10 19:15:00
+idUsuario,idPelicula,tipo_reaccion,fecha
+1,1,Me gusta,2024-05-01
+2,2,No me gusta,2024-05-02
+3,3,Me encanta,2024-05-03
+4,4,Me gusta,2024-05-04
+5,5,Me gusta,2024-05-05
+6,6,Me encanta,2024-05-06
+7,7,Me gusta,2024-05-07
+8,8,No me gusta,2024-05-08
+9,9,Me gusta,2024-05-09
+10,10,Me encanta,2024-05-10
