@@ -9,4 +9,13 @@ idUsuario,idSerie,tipo_reaccion,fecha
 8,10,No me gusta,2024-01-08
 9,1,Me gusta,2024-02-09
 10,2,Me encanta,2024-03-10
-
+1,1,Me gusta,2024-04-01
+2,2,No me gusta,2024-03-02
+3,3,Me encanta,2024-04-03
+4,4,Me gusta,2024-02-04
+5,5,Me gusta,2024-01-05
+6,6,Me encanta,2024-03-06
+7,7,Me gusta,2024-05-07
+8,8,No me gusta,2024-01-08
+9,9,Me gusta,2024-02-09
+10,10,Me encanta,2024-03-10
