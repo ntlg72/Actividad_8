@@ -19,13 +19,14 @@ idUsuario,idEpisodio,tipo_reaccion,fecha
 8,18,Me gusta,2024-03-14
 9,19,No me gusta,2024-05-09
 10,20,Me gusta,2024-04-21
-1,1,Me encanta,2024-04-01
-2,2,Me gusta,2024-03-12
-3,3,No me gusta,2024-02-22
-4,4,Me gusta,2024-01-18
-5,5,Me encanta,2024-05-05
-6,6,Me gusta,2024-02-24
-7,7,Me encanta,2024-04-11
-8,8,Me gusta,2024-03-14
-9,9,No me gusta,2024-05-09
-10,10,Me gusta,2024-04-21
+1,7,Me encanta,2024-04-01
+10,8,Me gusta,2024-03-12
+3,11,No me gusta,2024-02-22
+2,2,Me gusta,2024-01-18
+3,7,Me encanta,2024-05-05
+5,14,Me gusta,2024-02-24
+6,15,Me encanta,2024-04-11
+7,16,Me gusta,2024-03-14
+8,17,No me gusta,2024-05-09
+9,18,Me gusta,2024-04-21
+10,19,No me gusta,2024-05-19
