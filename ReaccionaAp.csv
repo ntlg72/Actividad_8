@@ -9,6 +9,16 @@ idUsuario,idPelicula,tipo_reaccion,fecha
 8,8,No me gusta,2024-05-08
 9,9,Me gusta,2024-05-09
 10,10,Me encanta,2024-05-10
+1,3,No me gusta,2024-05-11
+2,4,Me gusta,2024-04-12
+2,5,Me encanta,2024-01-13
+3,4,No me gusta,2024-02-14
+4,5,Me encanta,2024-03-15
+5,6,Me gusta,2024-05-16
+6,7,Me encanta,2024-04-17
+7,9,No me gusta,2024-01-18
+8,4,Me gusta,2024-02-19
+9,10,No me gusta,2024-03-20
 1,11,Me gusta,2024-05-01
 2,12,No me gusta,2024-05-02
 3,13,Me encanta,2024-05-03
